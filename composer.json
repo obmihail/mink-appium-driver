@@ -1,5 +1,5 @@
 {
-    "name":         "behat/mink-appium-driver",
+    "name":         "obmihail/mink-appium-driver",
     "description":  "Appium driver for Mink framework",
     "keywords":     ["appium", "mobile", "android", "ios", "driver", "ajax", "testing", "native"],
     "homepage":     "http://appium.io/",
