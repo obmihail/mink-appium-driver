@@ -1,0 +1,23 @@
+{
+    "name":         "behat/mink-appium-driver",
+    "description":  "Appium driver for Mink framework",
+    "keywords":     ["appium", "mobile", "android", "ios", "driver", "ajax", "testing", "native"],
+    "homepage":     "http://appium.io/",
+    "type":         "mink-driver",
+    "license":      "MIT",
+
+    "authors": [
+    ],
+
+    "require": {
+        "php":                       ">=5.3.1",
+        "behat/mink":                "~1.6@dev",
+        "obmihail/php-webdriver":  "~1.1"
+    },
+
+    "autoload": {
+        "psr-0": {
+            "Behat\\Mink\\Driver": "src/"
+        }
+    },
+}
