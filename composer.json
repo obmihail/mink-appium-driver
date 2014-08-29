@@ -9,7 +9,7 @@
     "require": {
         "php":                       ">=5.3.1",
         "behat/mink":                "~1.6@dev",
-        "obmihail/php-webdriver":  "vAppium1.0"
+        "obmihail/php-webdriver":  "1.4.1"
     },
 
     "autoload": {
